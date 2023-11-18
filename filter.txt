@@ -1,0 +1,22 @@
+! Title: Hide stars banner
+! Expires: 4 Days
+! Homepage: https://github.com/milk-vt/hide-stars-banner
+! Version: 20231118
+
+! ---------- 20230904 TEMPUS ----------
+||schedule-static.hololive.tv/image/c10efa399a90.jpg$image
+||schedule-static.hololive.tv/image/95d01507ddb8.jpg$image
+
+! ---------- 20231117 holoARMIS ----------
+||schedule-static.hololive.tv/image/98952e6749a1.jpg$image
+||schedule-static.hololive.tv/image/209641dd2f5d.jpg$image
+||schedule-static.hololive.tv/image/586b5c22539d.jpg$image
+||schedule-static.hololive.tv/image/4428b4dc14e8.jpg$image
+||schedule-static.hololive.tv/image/92a183bc3a32.jpg$image
+||schedule-static.hololive.tv/image/0a89601ff2a4.jpg$image
+||schedule-static.hololive.tv/image/4f6d318cc97a.jpg$image
+||schedule-static.hololive.tv/image/c381ef5510eb.jpg$image
+||schedule-static.hololive.tv/image/0cc06de62326.jpg$image
+||schedule-static.hololive.tv/image/bacb3fc7c1ef.jpg$image
+||schedule-static.hololive.tv/image/2ef6ad86915d.jpg$image
+||schedule-static.hololive.tv/image/efeef6b676ae.jpg$image
