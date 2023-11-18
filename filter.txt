@@ -3,6 +3,9 @@
 ! Homepage: https://github.com/milk-vt/hide-stars-banner
 ! Version: 20231118
 
+! ---------- banner ----------
+||schedule-static.hololive.tv/image/55398f5a4a04.jpg$image
+
 ! ---------- 20230904 TEMPUS ----------
 ||schedule-static.hololive.tv/image/c10efa399a90.jpg$image
 ||schedule-static.hololive.tv/image/95d01507ddb8.jpg$image
