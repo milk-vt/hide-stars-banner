@@ -13,3 +13,6 @@
 ||schedule-static.hololive.tv/image/0d3e7c11edfa.jpg$image
 ||schedule-static.hololive.tv/image/d646a52349cc.jpg$image
 
+! ---------- 20240323 holostars UPROAR ----------
+||schedule-static.hololive.tv/image/5d66d22e8a1b.jpg$image
+||schedule-static.hololive.tv/image/890e21ab40d0.jpg$image
