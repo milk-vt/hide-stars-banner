@@ -1,18 +1,10 @@
 ! Title: Hide stars banner
 ! Expires: 4 Days
 ! Homepage: https://github.com/milk-vt/hide-stars-banner
-! Version: 20240319
+! Version: 2024628
 
 ! ---------- banner ----------
 ||schedule-static.hololive.tv/image/55398f5a4a04.jpg$image
 
 ! ---------- 20240318 holoplus banner (smartphone only) ----------
 ||asset.holoplus.com/holodule/banner.png$image
-
-! ---------- 20240318 holostars 5th ----------
-||schedule-static.hololive.tv/image/0d3e7c11edfa.jpg$image
-||schedule-static.hololive.tv/image/d646a52349cc.jpg$image
-
-! ---------- 20240323 holostars UPROAR ----------
-||schedule-static.hololive.tv/image/5d66d22e8a1b.jpg$image
-||schedule-static.hololive.tv/image/890e21ab40d0.jpg$image
